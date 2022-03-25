@@ -50,6 +50,6 @@ body {
     width: calc(0.7 * 180px);
     height: 180px;
     background-color: darkblue;
-    border-radius:50% 50% 50% 50%/60% 60% 40% 40%;
+    border-radius:30% 70% 0% 100% / 65% 30% 70% 35%;
 
 }
